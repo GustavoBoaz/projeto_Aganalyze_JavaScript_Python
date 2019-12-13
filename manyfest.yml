@@ -1,0 +1,4 @@
+  applications:
+  - name: aganalyze
+    random-route: true
+    memory: 128M

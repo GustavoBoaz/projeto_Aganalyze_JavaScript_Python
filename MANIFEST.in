@@ -1,0 +1,2 @@
+recursive-include analyze/templates *
+recursive-include analyze/static *
